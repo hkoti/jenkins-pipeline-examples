@@ -1,3 +1,4 @@
+#jenkins
 #!groovy
 pipeline {
   agent  none
